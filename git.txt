@@ -1,1 +1,1 @@
-header head title meta mate body doctype
+canvas svg localtion toggle addClass removeClass classList.add() querySelect()
